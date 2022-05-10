@@ -4,7 +4,7 @@
 
 ![](projetil.png?raw=true "Projétil")
 
-# Introdução
+# Objetivos
 
 Este projeto tem como objetivo o desenvolvimento de um programa usando a linguagem Kotlin.
 O programa foi concebido para "desenhar" a trajetória de um projétil que é lançado de uma certa altura, com uma certa velocidade inicial e num certo ângulo.
