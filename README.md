@@ -1,1 +1,1 @@
-# Trajetoria-de-um-projetil
+# Trajetoria de um projetil
