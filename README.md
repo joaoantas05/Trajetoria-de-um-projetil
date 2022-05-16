@@ -1,4 +1,4 @@
-# Trajetória de um projetil
+# Trajetória de um projétil
 
 <h1 align="center">Projeto elabora na UC de Fundamentos de Física</h1>
 
