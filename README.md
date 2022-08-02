@@ -1,5 +1,4 @@
 # Trajetória de um projétil
-
 <h1 align="center">Projeto elabora na UC de Fundamentos de Física</h1>
 
 ![](projetil.png?raw=true "Projétil")
